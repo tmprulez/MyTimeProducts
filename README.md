@@ -1,7 +1,3 @@
-Perfect — a **README** is a great idea for your app, especially if you plan to share the project with testers, collaborators, or even just for documentation when you come back to it. Since this is *My Time Matter*, a professional, concise README is best. I’ll draft one you can use as a template.
-
----
-
 # 📄 My Time Matter — README
 
 ## Overview
